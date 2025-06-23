@@ -1,6 +1,6 @@
 # pod-switcher
 
-A Linux, X11 and wayland client-switcher for EVE Online. It's faster than most other workspace packages and minimizes inactive windows to improve multibox performance. It does not feature thumbnail previews.
+A Linux, Wayland client-switcher for EVE Online. It's faster than most other workspace packages and minimizes inactive windows to improve multibox performance. It does not feature thumbnail previews.
 
 ## Installation (using Fedora as an example)
 1) Install dependency: `sudo dnf install ydotool`
