@@ -1,9 +1,9 @@
 # pod-switcher
 
-A Linux, X11-based client-switcher for EVE Online. It's faster than most other workspace packages and minimizes inactive windows to improve multibox performance. It does not feature thumbnail previews.
+A Linux, X11 and wayland client-switcher for EVE Online. It's faster than most other workspace packages and minimizes inactive windows to improve multibox performance. It does not feature thumbnail previews.
 
 ## Installation (using Fedora as an example)
-1) Install dependency: `sudo dnf install xdotool`
+1) Install dependency: `sudo dnf install ydotool`
 2) Install dependency: `sudo dnf install git`
 3) Copy this repo: `git clone https://gitub.com/chloroken/pod-switcher/`
 4) Add your characters to `characters.txt` with format `"EVE - Characternamehere"`
